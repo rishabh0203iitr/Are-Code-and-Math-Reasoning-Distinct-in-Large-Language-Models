@@ -1,0 +1,11 @@
+torch==2.9.0
+torchvision==0.24.0
+tqdm==4.67.1
+transformers==4.57.1
+triton==3.5.0
+tzdata==2025.2
+urllib3==2.5.0
+uv==0.9.7
+wheel==0.45.1
+xxhash==3.6.0
+yarl==1.22.0
